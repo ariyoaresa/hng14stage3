@@ -16,14 +16,14 @@
     "next": "15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "lucide-react": "^0.344.0"
+    "lucide-react": "^1.14.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.42.1",
     "@tailwindcss/postcss": "^4",
-    "@testing-library/dom": "^9.3.4",
+    "@testing-library/dom": "^10.0.0",
     "@testing-library/jest-dom": "^6.4.2",
-    "@testing-library/react": "^16.1.0",
+    "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.5.2",
     "@types/node": "^20.11.24",
     "@types/react": "^19.0.0",
